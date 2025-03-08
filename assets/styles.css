@@ -1,0 +1,29 @@
+/* Main styles for the application */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F5F5DC;
+}
+
+/* Custom table styling */
+.dash-table-container .dash-spreadsheet-container .dash-spreadsheet-inner th {
+    background-color: #333333 !important;
+    color: white !important;
+    font-weight: bold !important;
+}
+
+/* Button styling */
+.button-primary {
+    background-color: #4CAF50 !important;
+    color: white !important;
+    padding: 10px 15px !important;
+    border: none !important;
+    border-radius: 4px !important;
+    cursor: pointer !important;
+    font-size: 16px !important;
+}
+
+.button-primary:hover {
+    background-color: #45a049 !important;
+}
