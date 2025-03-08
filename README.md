@@ -1,4 +1,4 @@
-# CAPM Modeling Application
+<img width="1288" alt="dashboard" src="https://github.com/user-attachments/assets/a83ba840-41fd-4b31-bedf-1fa79d1ecd4d" /># CAPM Modeling Application
 
 ## Overview
 
@@ -6,6 +6,8 @@ This application provides a Capital Asset Pricing Model (CAPM) analysis tool for
 
 ## What is CAPM?
 CAPM (Capital Asset Pricing Model) is a financial model developed to evaluate an asset's expected returns based on its risk relationship with a given market. In other words, the model evaluates how sensitive an asset is to non-diversifiable risk (systematic or market risk). 
+
+<img width="1288" alt="dashboard" src="https://github.com/user-attachments/assets/ab954d06-59e8-44ba-ae3c-4ed344ee817a" />
 
 **CAPM Formula:** *E(rA) = rf + βA × (E(rm) - rf)*
 
