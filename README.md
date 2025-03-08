@@ -1,4 +1,4 @@
-<img width="1288" alt="dashboard" src="https://github.com/user-attachments/assets/a83ba840-41fd-4b31-bedf-1fa79d1ecd4d" /># CAPM Modeling Application
+# CAPM Modeling Application
 
 ## Overview
 
